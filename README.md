@@ -1,1 +1,1 @@
-# redirect-website.github.io
+# This page used for Claris.moe
